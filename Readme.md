@@ -13,6 +13,7 @@ Damit die App funktioniert wird außerdem die [Adminapp](https://github.com/Turi
 $ git clone https://github.com/Turing-X/jwz-live.git
 $ cd jwz-live
 $ meteor npm install
+$ git submodule update --init --recursive
 $ meteor
 ```
 ### Über Github Desktop
@@ -23,6 +24,7 @@ $ meteor
 ```
 $ cd ./PFAD/ZU/jwz-live
 $ meteor npm install
+$ git submodule update --init --recursive
 $ meteor"
 ```
 
