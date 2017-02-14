@@ -1,1 +1,1 @@
-// Import something for both here
+import '/imports/api/users';
